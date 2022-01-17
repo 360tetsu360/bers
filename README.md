@@ -1,5 +1,5 @@
 # BEDROCK-RS
-A pilot program for analyzing MCBE protocols.
+A pilot program for analyzing MCBE ( Minecraft Bedrock ) protocols written in Rust.
 
 # DONE
 - Flate
